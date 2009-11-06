@@ -1,5 +1,5 @@
 %define upstream_name    Devel-Leak-Object
-%define upstream_version 0.92
+%define upstream_version 1.00
 
 Name:       perl-%{upstream_name}
 Version:    %perl_convert_version %{upstream_version}
